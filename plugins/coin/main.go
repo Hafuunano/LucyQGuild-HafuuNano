@@ -1,0 +1,5 @@
+package coin
+
+func init() {
+
+}
